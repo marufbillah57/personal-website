@@ -18,9 +18,7 @@ h1{
 .green-color{
     color: rgb(0, 128, 111);
 }
-.bg-yellow{
-    background-color: rgb(5, 5, 5);
-}
+
 .link-button{
     text-decoration: none;
     background-color: red;
@@ -60,4 +58,7 @@ h1{
 }
 .dream-big p{
     margin-bottom: 30px;
+}
+footer p{
+    text-align: center;
 }
