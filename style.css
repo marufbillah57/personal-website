@@ -6,6 +6,7 @@ body{
 h1{
     font-size: 50px;
 }
+
 .mb-150{
     margin-bottom: 150px;
 }
@@ -16,6 +17,9 @@ h1{
 }
 .green-color{
     color: rgb(0, 128, 111);
+}
+.bg-yellow{
+    background-color: rgb(5, 5, 5);
 }
 .link-button{
     text-decoration: none;
@@ -42,9 +46,18 @@ h1{
     background-repeat: no-repeat;
     padding-top: 20px;
 }
-.about-img img{
+ img{
     width: 80%;
 }
 .about-detail p{
+    margin-bottom: 30px;
+}
+.dream-area{
+    display: flex;
+    background-image: url(./images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.dream-big p{
     margin-bottom: 30px;
 }
